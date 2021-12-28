@@ -1,0 +1,10 @@
+bash script_train_mask/runpredict1.sh
+bash script_train_mask/runpredict2.sh
+bash script_train_mask/runpredict3.sh
+bash script_train_mask/runpredict4.sh
+bash script_train_mask/runpredict5.sh
+bash script_train_distance/runpredict1.sh
+bash script_train_distance/runpredict3.sh
+bash script_train_distance/runpredict4.sh
+bash script_train_distance/runpredict5.sh
+python3 compute_submit.py
