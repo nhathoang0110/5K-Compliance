@@ -1,4 +1,4 @@
-# Zalo AI challenge 2021 5K-Compliance
+# Top 1 Zalo AI challenge 2021 5K-Compliance 
 
 ## Prepare data: Dữ liệu của ban tổ chức cung cấp nằm trong folder dataset/train. Kết quả sau khi chia chính xác như các file txt
 - Clone yolov5 và mô hình yolov5x6 và thay thế file detect.py
